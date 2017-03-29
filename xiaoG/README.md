@@ -10,7 +10,7 @@
 
 http://xianjs.org/demo/xiaoG/less-demo/index.html;
 
-https://github.com/holidaying/ES6-demo
+https://github.com/holidaying/es6-demo
 
 http://xianjs.org/demo/xiaoG/mybox/index.html;
 
